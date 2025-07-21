@@ -45,4 +45,4 @@ Error Logs Check the error messages in the terminal or command prompt for troubl
 
 Contribution: If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Ensure that your code is well-documented and tested.
 
-Contact For questions or support, please contact Mayur Gadekar at mayurgadekar2501@gmail.com.
+Contact For questions or support, please contact Vaishnavi Kanchan at vaishnavikanchan14@gmail.com.
